@@ -70,7 +70,7 @@ The Workflow Services CSOM is very robust and gives you a lot of room for innova
     
     
 
-## Workflow forms available in SharePoint Sever 2013
+## Workflow forms available in SharePoint Server 2013
 <a name="sec3"> </a>
 
 Prior the release of SharePoint, there were three types of custom workflow forms you could create: **Initiation**, **Association**, and **Task Edit** forms. Of these three types of forms, task edit forms have been de-emphasized as a custom forms solution. The de-emphasis of Task Edit forms started with SharePoint 2010 because the Visual Studio 2010 SharePoint development tools lacked a project item for task forms, relying instead on the standard list display and edit forms to render tasks.
